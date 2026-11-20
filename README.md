@@ -5,8 +5,8 @@ Interactive AWS Cloud Engineer Portfolio showcasing 3-Tier VPC Architectures, Se
 
 Welcome to the source repository of my personal **AWS Cloud Engineer Portfolio**. This interactive single-page web application showcases my hands-on cloud architectures, migration workflows, serverless implementations, and verified deployment proofs.
 
-🔗 **Live Portfolio:** [View Live on Vercel](https://vercel.app)  
-💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)  
+🔗 **Live Portfolio:** [View Live on Vercel](https://ankitsportfolio.vercel.app/) 
+💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ankit-singh-40162244a)  
 📧 **Contact:** ankit05singh2002@gmail.com
 
 ---
